@@ -1,0 +1,21 @@
+:root{
+  --cor-fundo: #23252B;
+  --branco: #FFFFFF;
+  --cinza: #868686;
+  --preto:#000;
+  --laranja: #ff8c00;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  font-family: 'Poppins', sans-serif;
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: var(--preto);
+}
+
